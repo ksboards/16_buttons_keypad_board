@@ -1,0 +1,417 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5F1EEA67
+P 4700 2500
+F 0 "SW1" H 4700 2785 50  0000 C CNN
+F 1 "SW_Push" H 4700 2694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4700 2700 50  0001 C CNN
+F 3 "~" H 4700 2700 50  0001 C CNN
+	1    4700 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5F1F0069
+P 5300 2500
+F 0 "SW5" H 5300 2785 50  0000 C CNN
+F 1 "SW_Push" H 5300 2694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5300 2700 50  0001 C CNN
+F 3 "~" H 5300 2700 50  0001 C CNN
+	1    5300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5F1F0812
+P 5900 2500
+F 0 "SW9" H 5900 2785 50  0000 C CNN
+F 1 "SW_Push" H 5900 2694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5900 2700 50  0001 C CNN
+F 3 "~" H 5900 2700 50  0001 C CNN
+	1    5900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5F1F0D35
+P 6500 2500
+F 0 "SW13" H 6500 2785 50  0000 C CNN
+F 1 "SW_Push" H 6500 2694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 6500 2700 50  0001 C CNN
+F 3 "~" H 6500 2700 50  0001 C CNN
+	1    6500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5F1F5820
+P 4700 3000
+F 0 "SW2" H 4700 3285 50  0000 C CNN
+F 1 "SW_Push" H 4700 3194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4700 3200 50  0001 C CNN
+F 3 "~" H 4700 3200 50  0001 C CNN
+	1    4700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5F1F5826
+P 5300 3000
+F 0 "SW6" H 5300 3285 50  0000 C CNN
+F 1 "SW_Push" H 5300 3194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5300 3200 50  0001 C CNN
+F 3 "~" H 5300 3200 50  0001 C CNN
+	1    5300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5F1F582C
+P 5900 3000
+F 0 "SW10" H 5900 3285 50  0000 C CNN
+F 1 "SW_Push" H 5900 3194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5900 3200 50  0001 C CNN
+F 3 "~" H 5900 3200 50  0001 C CNN
+	1    5900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5F1F5832
+P 6500 3000
+F 0 "SW14" H 6500 3285 50  0000 C CNN
+F 1 "SW_Push" H 6500 3194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 6500 3200 50  0001 C CNN
+F 3 "~" H 6500 3200 50  0001 C CNN
+	1    6500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5F1F78F6
+P 4700 3500
+F 0 "SW3" H 4700 3785 50  0000 C CNN
+F 1 "SW_Push" H 4700 3694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4700 3700 50  0001 C CNN
+F 3 "~" H 4700 3700 50  0001 C CNN
+	1    4700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5F1F78FC
+P 5300 3500
+F 0 "SW7" H 5300 3785 50  0000 C CNN
+F 1 "SW_Push" H 5300 3694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5300 3700 50  0001 C CNN
+F 3 "~" H 5300 3700 50  0001 C CNN
+	1    5300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5F1F7902
+P 5900 3500
+F 0 "SW11" H 5900 3785 50  0000 C CNN
+F 1 "SW_Push" H 5900 3694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5900 3700 50  0001 C CNN
+F 3 "~" H 5900 3700 50  0001 C CNN
+	1    5900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5F1F7908
+P 6500 3500
+F 0 "SW15" H 6500 3785 50  0000 C CNN
+F 1 "SW_Push" H 6500 3694 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 6500 3700 50  0001 C CNN
+F 3 "~" H 6500 3700 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5F1F918E
+P 4700 4000
+F 0 "SW4" H 4700 4285 50  0000 C CNN
+F 1 "SW_Push" H 4700 4194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4700 4200 50  0001 C CNN
+F 3 "~" H 4700 4200 50  0001 C CNN
+	1    4700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5F1F9194
+P 5300 4000
+F 0 "SW8" H 5300 4285 50  0000 C CNN
+F 1 "SW_Push" H 5300 4194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5300 4200 50  0001 C CNN
+F 3 "~" H 5300 4200 50  0001 C CNN
+	1    5300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5F1F919A
+P 5900 4000
+F 0 "SW12" H 5900 4285 50  0000 C CNN
+F 1 "SW_Push" H 5900 4194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 5900 4200 50  0001 C CNN
+F 3 "~" H 5900 4200 50  0001 C CNN
+	1    5900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5F1F91A0
+P 6500 4000
+F 0 "SW16" H 6500 4285 50  0000 C CNN
+F 1 "SW_Push" H 6500 4194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 6500 4200 50  0001 C CNN
+F 3 "~" H 6500 4200 50  0001 C CNN
+	1    6500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x08 J1
+U 1 1 5F1F96FD
+P 2800 3250
+F 0 "J1" H 2718 3767 50  0000 C CNN
+F 1 "Conn_01x08" H 2718 3676 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 2800 3250 50  0001 C CNN
+F 3 "~" H 2800 3250 50  0001 C CNN
+	1    2800 3250
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 2500 6100 3000
+Connection ~ 6100 3000
+Wire Wire Line
+	6100 3000 6100 3500
+Connection ~ 6100 3500
+Wire Wire Line
+	6100 3500 6100 4000
+Wire Wire Line
+	5500 2500 5500 3000
+Connection ~ 5500 3000
+Wire Wire Line
+	5500 3000 5500 3500
+Connection ~ 5500 3500
+Wire Wire Line
+	5500 3500 5500 4000
+Wire Wire Line
+	4900 2500 4900 3000
+Connection ~ 4900 3000
+Wire Wire Line
+	4900 3000 4900 3500
+Connection ~ 4900 3500
+Wire Wire Line
+	4900 3500 4900 4000
+Wire Wire Line
+	6700 2500 6700 3000
+Connection ~ 6700 3000
+Wire Wire Line
+	6700 3000 6700 3500
+Connection ~ 6700 3500
+Wire Wire Line
+	6700 3500 6700 4000
+Wire Wire Line
+	6300 2500 6300 2600
+Wire Wire Line
+	6300 2600 5700 2600
+Wire Wire Line
+	4500 2600 4500 2500
+Wire Wire Line
+	5100 2500 5100 2600
+Connection ~ 5100 2600
+Wire Wire Line
+	5100 2600 4500 2600
+Wire Wire Line
+	5700 2500 5700 2600
+Connection ~ 5700 2600
+Wire Wire Line
+	5700 2600 5100 2600
+Wire Wire Line
+	6300 3000 6300 3100
+Wire Wire Line
+	6300 3100 5700 3100
+Wire Wire Line
+	4500 3100 4500 3000
+Wire Wire Line
+	5100 3000 5100 3100
+Connection ~ 5100 3100
+Wire Wire Line
+	5100 3100 4500 3100
+Wire Wire Line
+	5700 3000 5700 3100
+Connection ~ 5700 3100
+Wire Wire Line
+	5700 3100 5100 3100
+Wire Wire Line
+	6300 3500 6300 3600
+Wire Wire Line
+	6300 3600 5700 3600
+Wire Wire Line
+	4500 3600 4500 3500
+Wire Wire Line
+	5100 3500 5100 3600
+Connection ~ 5100 3600
+Wire Wire Line
+	5100 3600 4500 3600
+Wire Wire Line
+	5700 3500 5700 3600
+Connection ~ 5700 3600
+Wire Wire Line
+	5700 3600 5100 3600
+Wire Wire Line
+	6300 4000 6300 4100
+Wire Wire Line
+	6300 4100 5700 4100
+Wire Wire Line
+	4500 4100 4500 4000
+Wire Wire Line
+	5100 4000 5100 4100
+Connection ~ 5100 4100
+Wire Wire Line
+	5100 4100 4500 4100
+Wire Wire Line
+	5700 4000 5700 4100
+Connection ~ 5700 4100
+Wire Wire Line
+	5700 4100 5100 4100
+Wire Wire Line
+	4500 2600 4250 2600
+Connection ~ 4500 2600
+Wire Wire Line
+	4500 3100 4250 3100
+Connection ~ 4500 3100
+Wire Wire Line
+	4500 3600 4250 3600
+Connection ~ 4500 3600
+Wire Wire Line
+	4500 4100 4250 4100
+Connection ~ 4500 4100
+Wire Wire Line
+	3000 2950 3300 2950
+Wire Wire Line
+	3000 3050 3300 3050
+Wire Wire Line
+	3000 3150 3300 3150
+Wire Wire Line
+	3000 3250 3300 3250
+Wire Wire Line
+	3000 3350 3300 3350
+Wire Wire Line
+	3000 3450 3300 3450
+Wire Wire Line
+	3000 3550 3300 3550
+Wire Wire Line
+	3000 3650 3300 3650
+Entry Wire Line
+	3300 2950 3400 3050
+Entry Wire Line
+	3300 3050 3400 3150
+Entry Wire Line
+	3300 3150 3400 3250
+Entry Wire Line
+	3300 3250 3400 3350
+Entry Wire Line
+	3300 3350 3400 3450
+Entry Wire Line
+	3300 3450 3400 3550
+Entry Wire Line
+	4150 2700 4250 2600
+Entry Wire Line
+	4150 3200 4250 3100
+Entry Wire Line
+	4150 3700 4250 3600
+Entry Wire Line
+	4150 4200 4250 4100
+Entry Wire Line
+	3400 3650 3300 3550
+Entry Wire Line
+	3400 3750 3300 3650
+Wire Wire Line
+	4900 4000 4900 4300
+Connection ~ 4900 4000
+Wire Wire Line
+	5500 4000 5500 4400
+Connection ~ 5500 4000
+Wire Wire Line
+	6100 4000 6100 4500
+Connection ~ 6100 4000
+Wire Wire Line
+	6700 4000 6700 4600
+Connection ~ 6700 4000
+Wire Wire Line
+	4900 4300 4250 4300
+Wire Wire Line
+	5500 4400 4250 4400
+Wire Wire Line
+	6100 4500 4250 4500
+Wire Wire Line
+	6700 4600 4250 4600
+Entry Wire Line
+	4250 4300 4150 4400
+Entry Wire Line
+	4250 4400 4150 4500
+Entry Wire Line
+	4250 4500 4150 4600
+Entry Wire Line
+	4250 4600 4150 4700
+Wire Bus Line
+	3400 4800 4150 4800
+Wire Bus Line
+	3400 3050 3400 4800
+Wire Bus Line
+	4150 2700 4150 4800
+Text Label 3150 2950 0    50   ~ 0
+R1
+Text Label 3150 3050 0    50   ~ 0
+R2
+Text Label 3150 3150 0    50   ~ 0
+R3
+Text Label 3150 3250 0    50   ~ 0
+R4
+Text Label 3150 3350 0    50   ~ 0
+C1
+Text Label 3150 3450 0    50   ~ 0
+C2
+Text Label 3150 3550 0    50   ~ 0
+C3
+Text Label 3150 3650 0    50   ~ 0
+C4
+Text Label 4250 2600 0    50   ~ 0
+R1
+Text Label 4250 3100 0    50   ~ 0
+R2
+Text Label 4250 3600 0    50   ~ 0
+R3
+Text Label 4250 4100 0    50   ~ 0
+R4
+Text Label 4250 4300 0    50   ~ 0
+C1
+Text Label 4250 4400 0    50   ~ 0
+C2
+Text Label 4250 4500 0    50   ~ 0
+C3
+Text Label 4250 4600 0    50   ~ 0
+C4
+$EndSCHEMATC
